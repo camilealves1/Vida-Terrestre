@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(202, 245, 194);
+    color: rgb(0, 0, 0);
+    margin: 0;
+    padding: 20px;
+}
+
+.texto {
+    margin-left: 40px;
+}
+
+img {
+    width: 500px;
+    height: 300px;
+    border-radius: 4px;
+    align-self: center;
+    margin: 20px auto;
+}
+
+.center {
+    text-align: end;
+}
